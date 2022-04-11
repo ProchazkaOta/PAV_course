@@ -15,3 +15,5 @@
 10. Rezerva
 
 TODO: prepare rather single exercise every week then a single sminal work
+
+EDIT
